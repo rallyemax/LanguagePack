@@ -34,9 +34,6 @@
             <meta-data
                 android:name="com.menny.android.anysoftkeyboard.keyboards"
                 android:resource="@xml/keyboards" />
-            <meta-data
-                android:name="com.menny.android.anysoftkeyboard.dictionaries"
-                android:resource="@xml/dictionaries" />
         </receiver>
 
     </application>
